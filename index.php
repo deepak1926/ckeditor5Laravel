@@ -37,7 +37,7 @@ session_start();
 
     <div class="page-container">
         <h1 class="city-heading">
-            Major Cities
+            Major Cities For
         </h1>
         <div class="row">
             <div class="city-card-container col-md">
